@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IwuchukwuDivine
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on html and css
+- 💞️ I’m looking to collaborate on html, CSS and JavaScript
 - 📫 How to reach me ekeneifunanya@gmail.com
 
 <!---
