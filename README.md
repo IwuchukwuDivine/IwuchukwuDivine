@@ -1,27 +1,62 @@
-<h1 align="center">Hi 👋, I'm Iwuchukwu Divine</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+# <div align="center">👋 Hi there, I'm Iwuchukwu Divine</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iwuchukwudivine&label=Profile%20views&color=0e75b6&style=flat" alt="iwuchukwudivine" /> </p>
+<div align="center">
+  <b>Frontend & Mobile App Developer | Nigeria 🇳🇬</b>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br>
 
+<div align="center">
+  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding" width="300" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iwuchukwudivine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+## 🚀 About Me
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT JS, TAILWIND CSS, BOOTSRTAP, VUE JS, NUXT JS, VUETIFY**
+I'm a passionate developer focused on creating exceptional user experiences through modern web and mobile technologies. I specialize in building responsive, performant applications using the latest frontend frameworks and tools.
 
-- 📫 How to reach me **ekeneifunanya@gmail.com**
+## 💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divineiwuchukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divineiwuchukwu" height="30" width="40" /></a>
+```text
+Frontend          HTML5, CSS3, JavaScript, TypeScript
+Frameworks        React.js, Vue.js, Next.js, Nuxt.js
+Mobile            React Native, Capacitor
+Styling          Tailwind CSS, Bootstrap, Vuetify, SASS
+Database         PostgreSQL
+```
+
+## 🛠️ Languages & Tools
+<p>
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
+  <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwuchukwudivine&show_icons=true&locale=en&layout=compact" alt="iwuchukwudivine" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iwuchukwudivine&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=iwuchukwudivine&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwuchukwudivine&theme=dark" alt="GitHub Streak" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwuchukwudivine&show_icons=true&locale=en" alt="iwuchukwudivine" /></p>
+## 📫 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwuchukwudivine&" alt="iwuchukwudivine" /></p>
-
+<p align="center">
+  <a href="mailto:ekeneifunanya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/divineiwuchukwu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
