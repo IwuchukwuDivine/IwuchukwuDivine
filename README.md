@@ -1,18 +1,23 @@
-
 # <div align="center">👋 Hi there, I'm Iwuchukwu Divine</div>
 
 <div align="center">
+
   <b>Full Stack Developer | Cloud & Mobile Engineer | Nigeria 🇳🇬</b>
+
 </div>
 
 <br>
 
 <div align="center">
+
   <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding" width="300" />
+
 </div>
 
 <div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=iwuchukwudivine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
@@ -20,6 +25,7 @@
 ## 🚀 About Me
 
 I'm a **problem-solving Full Stack Developer** who builds high-performing, user-focused web and mobile applications.
+
 I work efficiently under pressure, think fast, and deliver reliable, scalable solutions.
 
 With strong experience in **frontend frameworks, cloud platforms, backend tools**, and **automation systems**, I focus on turning ideas into powerful digital experiences.
@@ -43,15 +49,24 @@ Others:          REST APIs, WebSockets, MQTT, Git, CI/CD
 
 ## 🧩 Featured Projects
 
-Here are some projects I’ve built and deployed:
+Here are some projects I've built and deployed:
+
+* 🔄 [**HTML to Vue Converter**](https://html-vue-converter.vercel.app/) – A powerful web-based tool that instantly converts vanilla HTML into Vue 3 Single File Components. Supports both Composition API and Options API with intelligent parsing of scripts, styles, and templates.
 
 * 🛍️ [**Essenceials**](https://essenceials.com/) – An online shopping platform for premium home appliances, perfumes, electronics, and lifestyle essentials with a smooth, secure checkout experience.
+
 * 🔗 [**Umoja Africa**](https://umoja-africa.com/) – A Pan-African platform focused on unity, collaboration, and empowerment.
+
 * 🎥 [**FlickFusion**](https://flickfusion.vercel.app/) – A movie discovery app powered by the TMDB API with a clean, responsive UI.
-* 🛍️ [Buds Sensation](https://buds-sensation.vercel.app/) – A modern restaurant landing page that highlights the menu, specials, reservations, and gallery.
+
+* 🛍️ [**Buds Sensation**](https://buds-sensation.vercel.app/) – A modern restaurant landing page that highlights the menu, specials, reservations, and gallery.
+
 * 🖼️ [**NFT Gallery**](https://nft-website-chi-seven.vercel.app/) – A modern landing page for showcasing digital NFTs.
+
 * 🎮 [**Tic Tac Toe Game**](https://tic-tac-toe-game-six-kappa.vercel.app/) – A fun, interactive, and responsive game built for browsers.
+
 * 🪙 [**Solux Solana**](https://soluxsolana.netlify.app/) – A dark-themed Solana blockchain landing page with animations.
+
 * 💰 [**Expense Tracker**](https://expense-tracker-xi-gray.vercel.app/) – A tool for managing and tracking daily expenses.
 
 💡 *More projects available on my repositories.*
@@ -82,11 +97,17 @@ Here are some projects I’ve built and deployed:
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iwuchukwudivine&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+
   <br><br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=iwuchukwudivine&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+
   <br><br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwuchukwudivine&theme=dark" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -109,4 +130,5 @@ Here are some projects I’ve built and deployed:
 
 ### ⚡ Fun Fact
 
-> “I build fast, think faster, and solve problems that slow others down.”
+> "I build fast, think faster, and solve problems that slow others down."
+
