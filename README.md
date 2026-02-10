@@ -39,7 +39,7 @@ Languages:       JavaScript, TypeScript, Python
 Frontend:        React.js, Vue.js, Next.js, Nuxt.js
 Mobile:          React Native, Capacitor
 Styling:         Tailwind CSS, Bootstrap, Vuetify, SASS
-Backend:         Node.js, Supabase, AWS Lambda, PostgreSQL
+Backend:         Node.js, Python, Supabase, AWS Lambda, PostgreSQL
 Cloud & Tools:   AWS (S3, Lambda, API Gateway), Node-RED
 Testing:         Vitest (Unit Testing), Cypress / Playwright (E2E)
 Others:          REST APIs, WebSockets, MQTT, Git, CI/CD
