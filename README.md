@@ -122,6 +122,9 @@ When I'm not coding, I'm probably reading about history or having conversations 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**HerStory Africa**](https://her-story-africa-seven.vercel.app) | Digital archive of African women who shaped history | Nuxt 4, Vue 3, Nuxt Content |
+| [**Sweet Healthy Foods**](https://sweethealthyfoodsventures.com) | E-commerce for nutritious Nigerian food products & natural supplements | Full Stack |
+| [**Flagit**](https://flagit.mooo.com) | Community issue tracker for reporting and resolving local problems | Full Stack |
+| [**Foodprint**](https://www.foodprint.com.ng) | Food platform for Nigeria | Full Stack |
 | [**HTML to Vue Converter**](https://html-vue-converter.vercel.app) | Converts vanilla HTML into Vue 3 SFCs (Composition & Options API) | Vue 3, TypeScript |
 | [**Essenceials**](https://essenceials.com) | E-commerce platform for premium home & lifestyle essentials | Full Stack |
 | [**Umoja Africa**](https://umoja-africa.com) | Pan-African platform for unity, collaboration, and empowerment | Full Stack |
