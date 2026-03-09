@@ -11,7 +11,7 @@ Building fast, reliable digital experiences that solve real problems.
 <br>
 
 [![Email](https://img.shields.io/badge/Email-ekeneifunanya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ekeneifunanya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-divineiwuchukwu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divineiwuchukwu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-divineiwuchukwu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deevyn)
 [![Twitter](https://img.shields.io/badge/Twitter-@__DeeVyn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/_DeeVyn)
 [![Profile Views](https://komarev.com/ghpvc/?username=iwuchukwudivine&label=Views&color=0e75b6&style=flat-square)](https://github.com/iwuchukwudivine)
 
